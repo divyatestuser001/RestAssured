@@ -1,0 +1,11 @@
+{
+    "firstname" : "Harish122",
+    "lastname" : "Kanta",
+    "totalprice" : 111,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2023-02-08",
+        "checkout" : "2023-02-08"
+    },
+    "additionalneeds" : "Breakfast"
+}

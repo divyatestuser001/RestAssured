@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-10T08:57:16Z" name="testng_DDD.xml" finished-at="2023-02-10T08:57:20Z" duration-ms="4045">
+    <groups>
+    </groups>
+    <test started-at="2023-02-10T08:57:16Z" name="Test" finished-at="2023-02-10T08:57:20Z" duration-ms="4045">
+      <class name="com.RestAssured.TC_07_Post_ReqRes_CreateUser_DDD">
+        <test-method signature="verifyCreateUserTest(java.lang.String, java.lang.String)[pri:0, instance:com.RestAssured.TC_07_Post_ReqRes_CreateUser_DDD@28975c28]" started-at="2023-02-10T08:57:16Z" name="verifyCreateUserTest" data-provider="smokeTestData" finished-at="2023-02-10T08:57:18Z" duration-ms="2608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Divya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sr. Leader]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateUserTest -->
+        <test-method signature="verifyCreateUserTest(java.lang.String, java.lang.String)[pri:0, instance:com.RestAssured.TC_07_Post_ReqRes_CreateUser_DDD@28975c28]" started-at="2023-02-10T08:57:18Z" name="verifyCreateUserTest" data-provider="smokeTestData" finished-at="2023-02-10T08:57:19Z" duration-ms="656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashwath]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Leader]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateUserTest -->
+        <test-method signature="verifyCreateUserTest(java.lang.String, java.lang.String)[pri:0, instance:com.RestAssured.TC_07_Post_ReqRes_CreateUser_DDD@28975c28]" started-at="2023-02-10T08:57:19Z" name="verifyCreateUserTest" data-provider="smokeTestData" finished-at="2023-02-10T08:57:20Z" duration-ms="760" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Malli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Srm Manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateUserTest -->
+      </class> <!-- com.RestAssured.TC_07_Post_ReqRes_CreateUser_DDD -->
+    </test> <!-- Test -->
+  </suite> <!-- testng_DDD.xml -->
+</testng-results>
